@@ -37,7 +37,7 @@ Logs key admin activities like post changes, media deletions, and user actions. 
 Yes. The plugin only logs admin-side actions and does not log any frontend user activity.
 
 = Where are logs stored? =
-Logs are stored in a dedicated table in your database: `wp_admin_activity_log_lite`.
+Logs are stored in a dedicated table in your database: `aal_logs`.
 
 = Can I clear the log manually? =
 Yes, there is a "Clear Logs" button with a confirmation prompt.
