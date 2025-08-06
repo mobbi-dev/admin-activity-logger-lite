@@ -4,6 +4,8 @@
 
 A lightweight WordPress plugin that logs key admin activities like post changes, media deletions, and user actions. Includes auto-purge and manual log clearing.
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C51GLQOX)
+
 ---
 
 ## Features
